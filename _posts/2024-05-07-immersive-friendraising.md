@@ -1,33 +1,16 @@
 ---
 layout: post
-title:  "The Immersive Baptism Of Christian Friendraising"
+title:  "WIGOUT Friendraising"
 date:   2024-05-04 4:30:00
 categories: mission
 ---
 
 # Auctioneering EVENTS are about FRIENDRAISING
 
-FRIENDRAISING is about RESURRECTION of the Christian community ... with or without churchs and pharisaical impediments to spreading the Gospel and the love of our Lord and Savior Jesus Christ.
 
-Friendraising events brings people together and accelerates various inter-church and intra-church negotiations ... in general, the strategic objective is about advancing the PR/outreach agenda of the organization served by this process.
+Here is a 200-module syllabus for a year-long study of auctioneering based fundraising events.
 
-## Immersive training in order to TRAIN outreach leadership
-
-This 200-module syllabus is for AUTODIDACTIC training to help recruit leaders and build a organizational faith-driven discipline for a year-long study of using events to *accelerate the negotiation* that is always happening as a ongoing conversation between an organization, the network of churches it serves and all people in the local community. 
-
-The point of this exercise is to AUTODIDACTICALLY LEARN how to use ***friendraising*** or getting people out to events, not so much to donate, but mostly develop stronger faith-based friendships between members of churches and the people in the community ... the focus is not exactly on bringing in dollars -- that will happen if God wills these activities to be successful in that regard ... MOSTLY, the intent is advance the PR/outreach agenda of the organization we serve.
-
-## 200 modules for a year-long immersive training program in Christian outreach leadership
-
-Here is a 200-module syllabus for a year-long study of auctioneering based fundraising events for a Christian organization with excess thrift store merchandise to liquidate. 
-
-PRACTICALLY, in pedagogical terms, the focus of these auctioneering events is about putting the training INTO PRACTICE ... this is not just a seminar that one attends and then goes back to the normal routine and forgets about it ... this is about a year-long study of *increasing the bid* ... that means that we set up a regular RHYTHMIC vibe that church leaders and community people start to understand and then find ways to participate in ... we need to have EVENTS that will work with the resources that we have ... of course, the events certain aspects of the small events will fail and we will learn from those failures to PRACTICALLY DESIGN BETTER AND BETTER events.
-
-The POINT of this entire exercise is about *increasing the bid* ... SLOWLY building momentum ... working with the entire community to accelerate the negotiations that should always being happening as part of the ongoing conversations that are about BUILDING THE COMMUNITY.
-
-In other words, the point doing this is to drive out NEGATIVE community behaviors such as gossiping, longing for better days of the past, focusing on negatives. 
-
-BUILDING the community requires building momentum and excitement and FAITH ... walking WITH our people, WITH our churches is about serving the spiritual needs of people in the local community ... and it also about displacing the negative habits of being ourselves, being held back by our longing for the past or our fears of the community's future and the influx of NEW people and NEW spirtual needs ... BUILDING THE COMMUNITY requires RESURRECTION and EXERCISE of FAITH.
+The POINT of this entire exercise is about developing the materials to *increase the bid* or to *accelerate the negotiation* ... but it's something that will happen very SLOWLY, over course of at least a few decades and maybe even few hundred years ... steadily, slowly, building momentum ...  the larger point of WIGOUT.land to [mainly through bequests from those who love Iowa rivers] put together contiguous greenspaces which can furnish people with the opprotunity to hike along Rivers, to volunteer, to improve habitat, to actually care a space for solitude and peace.
 
 ### Module 1-10: Introduction to Auctioneering and Fundraising
 

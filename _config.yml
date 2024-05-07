@@ -1,9 +1,9 @@
 # Site settings
-title: Salebarn
-email: salebarn@gmail.com
-description: Accelerating negotiations ... increasing the bid, building momentum, friendraising to improve the health of communities.
-twitter_username: Salebarn_LLC
-github_username:  Salebarn
+title: WIGOUT.land
+email: MarkBruns@MarkBruns.com
+description: Western Iowa Greenspace Organization United for TURKEYS (WIGOUT) ... Wigout.land
+twitter_username: MarkBruns
+github_username:  WIGOUTland
 
 # Build settings
 markdown: kramdown
