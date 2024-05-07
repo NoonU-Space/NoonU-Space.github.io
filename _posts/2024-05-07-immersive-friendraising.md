@@ -8,7 +8,7 @@ categories: mission
 # Auctioneering EVENTS are about FRIENDRAISING
 
 
-Here is a 200-module syllabus for a year-long study of auctioneering based fundraising events.
+Here is a 200-module syllabus for a year-long study of auctioneering-based friendraising and fundraising events.
 
 The POINT of this entire exercise is about developing the materials to *increase the bid* or to *accelerate the negotiation* ... but it's something that will happen very SLOWLY, over course of at least a few decades and maybe even few hundred years ... steadily, slowly, building momentum ...  the larger point of WIGOUT.land to [mainly through bequests from those who love Iowa rivers] put together contiguous greenspaces which can furnish people with the opprotunity to hike along Rivers, to volunteer, to improve habitat, to actually care a space for solitude and peace.
 
