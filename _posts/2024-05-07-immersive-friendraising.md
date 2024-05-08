@@ -22,7 +22,9 @@ The POINT of this entire exercise is about developing the materials to *increase
 
 **Benefit Auctioneers Specialists (BAS)** are [professionally trained and certified](https://www.auctioneers.org/content.asp?admin=Y&contentid=262) to be specialist in fundraising ... they develop worldwide peer networks with fellow BAS professionals. As professionals, their roles goes far beyond merely being an emcee **performing** at an event; it really goes beyond even just developing and implementing strategies for developing and managing a one-off successful fundraising benefit auction event ... fundraising is longer-term process of growing a donor base.  BAS professionals guide clients through series of consultations resulting in a successful event and building larger organizational reach. This about working with clients to identify methods to communicate professional links to committees, foundations, CEOs, and significant influencers promote the service and mission of the organization ... this will involve using different methods but it's about getting out a consistent message through different channels including content marketing through blogs, podcasts and all effective means of using digital and video marketing. It's really about transcending an effective stage/screen performance to maximize different revenue streams and fundraising potential for multiple event types, including revenue generators and revenue enhancers. A BAS professiona will be well-versed in the pros and cons of different approaches ... an in-person event, virtual webinar, hybrid conference, and online only fundraising mechanisms for various purposes. It really requires a professional approach to identify the technology and audio-visual best practices for each event type. Before events, it's necessary to work with clients to develop a script or run-of-show (ROS) dress rehearsal with the client that reinforces and supports fundraising as the event goal. Regardless of whether it's show on Broadway or Community Theater play or benefit event ... it has to be REHEARSED and taken seriously ... or **otherwise, why should ANYONE take the cause or the event seriously?**
 
-#### 4. Understanding the Christian organization's mission and values
+#### 4. Understanding the WIGOUT.land organization's mission and values
+
+Westerberg Iowa Greenspace Organization United for TURKEYS (WIGOUT.land) is a 501(c)(3) nonprofit organization dedicated to preserving and enhancing greenspaces along Iowa rivers. Our mission is to create contiguous greenspaces that provide opportunities for **TURKEY HUNTING**, hiking, volunteering, habitat improvement, solitude and **MORE TURKEY HUNTING** along Iowa rivers. We believe that access to nature and greenspaces is essential for the well-being of individuals and communities and **TURKEY HUNTERS.** Our values include environmental stewardship, community engagement, and collaboration with local partners to achieve our main goal of MORE TURKEY HUNTING along the greenspaces we manage in Iowa's river habitat.
 
 #### 5. Identifying the organization's excess thrift store merchandise
 
@@ -54,7 +56,7 @@ The POINT of this entire exercise is about developing the materials to *increase
 
 #### 18. Providing training and support for members involved in fundraising
 
-#### 19. Incorporating prayer and devotions into the planning process
+#### 19. Incorporating faith, prayer and devotions into the planning process
 
 #### 20. Evaluating and implementing members' ideas for fundraising events
 
@@ -108,7 +110,7 @@ The POINT of this entire exercise is about developing the materials to *increase
 
 #### 42. Researching successful fundraising events from other organizations
 
-#### 43. Adapting ideas to align with the Christian organization's mission and values
+#### 43. Adapting ideas to align with the organization's mission and values
 
 #### 44. Developing a themed auction event (e.g., holiday-themed, sports memorabilia)
 
@@ -212,27 +214,27 @@ The POINT of this entire exercise is about developing the materials to *increase
 
 #### 90. Evaluating the effectiveness of addiction recovery fundraising efforts and making improvements
 
-### Module 91-100: Seminars for Improving Prayer Lives
+### Module 91-100: Seminars on SOLITUDE ... for Improving Prayer Lives
 
-#### 91. Understanding the importance of prayer in the Christian faith
+#### 91. Understanding the importance of solitude, prayer, and contemplation
 
-#### 92. Developing fundraising initiatives to support prayer-focused programs
+#### 92. Developing fundraising initiatives to support peace and solitude
 
-#### 93. Organizing a prayer retreat or conference and raising funds for expenses
+#### 93. Organizing a prayer retreat or greenspace conference and raising funds for expenses
 
-#### 94. Hosting a workshop on different forms of prayer and contemplation
+#### 94. Hosting a workshop on solitude and different forms of prayer and contemplation
 
 #### 95. Partnering with local churches for joint prayer-focused fundraising efforts
 
-#### 96. Creating a prayer partner program and raising funds for resources and materials
+#### 96. Creating a solitude partner program and raising funds for resources and materials
 
-#### 97. Organizing a community event to encourage and support personal prayer practices
+#### 97. Organizing a community event to encourage and support solitude
 
 #### 98. Developing a scholarship fund for individuals to attend prayer seminars or retreats
 
 #### 99. Hosting a speaker series or panel discussion on the power of prayer in daily life
 
-#### 100. Evaluating the impact of prayer-focused fundraising efforts and gathering feedback
+#### 100. Evaluating the impact of less drama, solitude-focused fundraising efforts and gathering feedback
 
 ### Module 101-110: Sharing Devotions with Community Members
 
