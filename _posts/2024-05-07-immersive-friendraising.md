@@ -24,7 +24,7 @@ The POINT of this entire exercise is about developing the materials to *increase
 
 #### 4. Understanding the WIGOUT.land organization's mission and values
 
-Westerberg Iowa Greenspace Organization United for TURKEYS (WIGOUT.land) is a 501(c)(3) nonprofit organization dedicated to preserving and enhancing greenspaces along Iowa rivers. Our mission is to create contiguous greenspaces that provide opportunities for **TURKEY HUNTING**, hiking, volunteering, habitat improvement, solitude and **MORE TURKEY HUNTING** along Iowa rivers. We believe that access to nature and greenspaces is essential for the well-being of individuals and communities and **TURKEY HUNTERS.** Our values include environmental stewardship, community engagement, and collaboration with local partners to achieve our main goal of MORE TURKEY HUNTING along the greenspaces we manage in Iowa's river habitat.
+Western Iowa Greenspace Organization United for TURKEYS (WIGOUT.land) is a 501(c)(3) nonprofit organization dedicated to preserving and enhancing greenspaces along Iowa rivers. Our mission is to create contiguous greenspaces that provide opportunities for **TURKEY HUNTING**, hiking, volunteering, habitat improvement, solitude and **MORE TURKEY HUNTING** along Iowa rivers. We believe that access to nature and greenspaces is essential for the well-being of individuals and communities and **TURKEY HUNTERS.** Our values include environmental stewardship, community engagement, and collaboration with local partners to achieve our main goal of MORE TURKEY HUNTING along the greenspaces we manage in Iowa's river habitat.
 
 #### 5. Identifying the organization's excess thrift store merchandise
 
