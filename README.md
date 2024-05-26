@@ -2,7 +2,7 @@
 
 Our exploration STARTS with exploring a niche of [AWESOME hard science fiction](https://github.com/sindresorhus/awesome-scifi).
 
-Here are 50 iconic examples of hard science fiction set in the 22nd century and beyond, compared to the Noon Universe series by the Strugatsky Brothers:
+Here are 50 iconic examples of [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) set in the 22nd century and beyond, compared to the Noon Universe series by the Strugatsky Brothers:
 
 1. The Mars Trilogy by Kim Stanley Robinson (Red Mars, Green Mars, Blue Mars) - Detailed depiction of Mars colonization and terraforming in the 22nd-23rd centuries, similar to the Noon Universe's focus on space exploration.[1][3]
 
