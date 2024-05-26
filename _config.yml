@@ -1,9 +1,9 @@
 # Site settings
-title: WIGOUT.land
+title: Noon Universe
 email: MarkBruns@MarkBruns.com
-description: Western Iowa Greenspace Organization United for TURKEYS (WIGOUT) ... Wigout.land
+description: Noon Universe Space Exploration
 twitter_username: MarkBruns
-github_username:  WIGOUTland
+github_username:  NoonU-Space
 
 # Build settings
 markdown: kramdown
