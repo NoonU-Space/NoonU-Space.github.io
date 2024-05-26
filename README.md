@@ -1,6 +1,6 @@
 ## Noon Universe Space Exploration
 
-Our exploration STARTS with exploring a niche of AWESOME hard science fiction.
+Our exploration STARTS with exploring a niche of [AWESOME hard science fiction](https://github.com/sindresorhus/awesome-scifi).
 
 Here are 50 iconic examples of hard science fiction set in the 22nd century and beyond, compared to the Noon Universe series by the Strugatsky Brothers:
 
