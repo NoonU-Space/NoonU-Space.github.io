@@ -11,49 +11,49 @@ Our exploration STARTS with exploring a niche of [AWESOME hard science fiction](
 
 Here are 50 iconic examples of [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) set in the 22nd century and beyond, compared to the Noon Universe series by the Strugatsky Brothers:
 
-1. The Mars Trilogy by Kim Stanley Robinson (Red Mars, Green Mars, Blue Mars) - Detailed depiction of Mars colonization and terraforming in the 22nd-23rd centuries, similar to the Noon Universe's focus on space exploration. The Mars Trilogy, consisting of Red Mars, Green Mars, and Blue Mars, chronicles the colonization and terraforming of Mars over the course of nearly two centuries. In Red Mars, the initial colonists (the "First Hundred") establish a base on Mars and begin the terraforming process, but face challenges from the harsh environment and political disputes between those wanting to preserve Mars and those wanting to fully terraform it. Key events include the introduction of plant life, establishment of cities, and a violent revolution. Green Mars depicts the aftermath of the revolution and an intensifying terraforming effort that introduces animals, thickens the atmosphere and raises temperatures to melt ice. Underground aquifers are tapped. Political factions continue to clash over the direction of Mars' development. In Blue Mars, the terraforming is largely complete - Mars now has oceans, a breathable atmosphere and Earthlike terrain and climate. It has achieved independence from Earth, which has been ravaged by overpopulation and climate change. Martian society continues to evolve and spread across the planet. Key themes include the **logistics** and **ethics of terraforming**, the **evolution of human society and economics on a new world**, the **relationship between humanity and nature**, and the **contrast between a dying Earth and a vibrant Mars**. The story is told from the perspective of multiple characters over several generations. [1][3]
+1. **The Mars Trilogy by Kim Stanley Robinson (Red Mars, Green Mars, Blue Mars)** is a detailed depiction of Mars colonization and terraforming in the 22nd-23rd centuries, similar to the Noon Universe's focus on space exploration. The Trilogy, consists of Red Mars, Green Mars, and Blue Mars and chronicles the colonization and terraforming of Mars over the course of nearly two centuries. In Red Mars, the initial colonists (the "First Hundred") establish a base on Mars and begin the terraforming process, but face challenges from the harsh environment and political disputes between those wanting to preserve Mars and those wanting to fully terraform it. Key events include the introduction of plant life, establishment of cities, and a violent revolution. Green Mars depicts the aftermath of the revolution and an intensifying terraforming effort that introduces animals, thickens the atmosphere and raises temperatures to melt ice. Underground aquifers are tapped. Political factions continue to clash over the direction of Mars' development. In Blue Mars, the terraforming is largely complete - Mars now has oceans, a breathable atmosphere and Earthlike terrain and climate. It has achieved independence from Earth, which has been ravaged by overpopulation and climate change. Martian society continues to evolve and spread across the planet. Key themes include the **logistics** and **ethics of terraforming**, the **evolution of human society and economics on a new world**, the **relationship between humanity and nature**, and the **contrast between a dying Earth and a vibrant Mars**. The story is told from the perspective of multiple characters over several generations. 
 
-2. Rendezvous with Rama by Arthur C. Clarke - A mysterious alien spacecraft enters the solar system in the 22nd century, prompting human exploration.[3]  
+2. Rendezvous with Rama by Arthur C. Clarke - A mysterious alien spacecraft enters the solar system in the 22nd century, prompting human exploration. 
 
-3. The Expanse series by James S.A. Corey - Realistic portrayal of human colonization of the solar system in the 24th century.[3]
+3. The Expanse series by James S.A. Corey - Realistic portrayal of human colonization of the solar system in the 24th century.
 
-4. Aurora by Kim Stanley Robinson - Multi-generational starship journey in the 25th century, exploring challenges of space colonization like the Noon Universe.[3]
+4. Aurora by Kim Stanley Robinson - Multi-generational starship journey in the 25th century, exploring challenges of space colonization like the Noon Universe.
 
-5. Revelation Space series by Alastair Reynolds - Universe spanning centuries, with advanced technologies and alien civilizations.[3]
+5. Revelation Space series by Alastair Reynolds - Universe spanning centuries, with advanced technologies and alien civilizations.
 
-6. The Forever War by Joe Haldeman - Seminal military sci-fi novel depicting time dilation effects of relativistic space travel.[1]
+6. The Forever War by Joe Haldeman - Seminal military sci-fi novel depicting time dilation effects of relativistic space travel.
 
-7. Accelerando by Charles Stross - Explores technological singularity and post-human evolution from the present to the late 21st century.[1]  
+7. Accelerando by Charles Stross - Explores technological singularity and post-human evolution from the present to the late 21st century.
 
-8. Alien/Aliens - The iconic films depict a 22nd century space mining crew's encounter with a deadly alien species.[2][3]
+8. Alien/Aliens - The iconic films depict a 22nd century space mining crew's encounter with a deadly alien species.
 
-9. The Matrix - Though brief, the 22nd century setting grounds the film's exploration of simulated reality and AI.[2]
+9. The Matrix - Though brief, the 22nd century setting grounds the film's exploration of simulated reality and AI.
 
-10. Avatar - Portrays humanity's colonization efforts on the moon Pandora in the 22nd century.[2][3]
+10. Avatar - Portrays humanity's colonization efforts on the moon Pandora in the 22nd century.
 
-11. A.I. Artificial Intelligence - Examines human-robot relations in a decaying 22nd century world.[2]  
+11. A.I. Artificial Intelligence - Examines human-robot relations in a decaying 22nd century world.
 
-12. Bicentennial Man - Spans two centuries as an android strives to become human.[3]
+12. Bicentennial Man - Spans two centuries as an android strives to become human.
 
-13. Elysium - Depicts a dystopian class-divided future in 2154 between the space station Elysium and a ruined Earth.[3]
+13. Elysium - Depicts a dystopian class-divided future in 2154 between the space station Elysium and a ruined Earth.
 
-14. Neuromancer by William Gibson - The seminal cyberpunk novel is set in the 22nd century.[1]
+14. Neuromancer by William Gibson - The seminal cyberpunk novel is set in the 22nd century.
 
-15. China Mountain Zhang by Maureen F. McHugh - Portrays life in mid-22nd century New York.[1]
+15. China Mountain Zhang by Maureen F. McHugh - Portrays life in mid-22nd century New York.
 
-16. Methuselah's Children by Robert Heinlein - Explores concepts of longevity and space travel in the 22nd century.[1]  
+16. Methuselah's Children by Robert Heinlein - Explores concepts of longevity and space travel in the 22nd century. 
 
-17. The Diamond Age by Neal Stephenson - A nano-technological future set around 2075.[1]
+17. The Diamond Age by Neal Stephenson - A nano-technological future set around 2075.
 
-18. The Windup Girl by Paolo Bacigalupi - Post-apocalyptic 22nd century world of climate change and biotechnology.[1]
+18. The Windup Girl by Paolo Bacigalupi - Post-apocalyptic 22nd century world of climate change and biotechnology.
 
-19. Black Man by Richard Morgan - Gritty cyberpunk tale set in the late 22nd century.[1]
+19. Black Man by Richard Morgan - Gritty cyberpunk tale set in the late 22nd century.
 
-20. Julian Comstock by Robert Charles Wilson - Post-apocalyptic 22nd century America.[1]
+20. Julian Comstock by Robert Charles Wilson - Post-apocalyptic 22nd century America.
 
-21. Ender's Game by Orson Scott Card - Military sci-fi with some scenes set on overpopulated future Earth.[1]
+21. Ender's Game by Orson Scott Card - Military sci-fi with some scenes set on overpopulated future Earth.
 
-22. Sleeper by Woody Allen - A comedic take on a 22nd century police state.[3]
+22. Sleeper by Woody Allen - A comedic take on a 22nd century police state.
 
 23. Interstellar - Portrays a crew journeying through a wormhole to find habitable worlds in the late 22nd century.
 
@@ -71,11 +71,5 @@ Here are 50 iconic examples of [hard science fiction](https://en.wikipedia.org/w
 
 30. Oryx and Crake by Margaret Atwood - Speculative fiction depicting a post-apocalyptic 22nd century world.
 
-The Noon Universe shares similarities with many of these works in terms of its hard science fiction approach and focus on space exploration and futuristic societies. However, it is distinguished by its uniquely Soviet perspective, episodic storytelling style, and utopian ideals rooted in the authors' experiences.[1][3][4][5]
+The Noon Universe shares similarities with many of these works in terms of its hard science fiction approach and focus on space exploration and futuristic societies. However, it is distinguished by its uniquely Soviet perspective, episodic storytelling style, and utopian ideals rooted in the authors' experiences.
 
-Citations:
-[1] I'd like to read a book set in the 22nd century on Earth. Do ... - Reddit https://www.reddit.com/r/scifi/comments/cifks/id_like_to_read_a_book_set_in_the_22nd_century_on/
-[2] The Best 22nd-Century Stories In Science Fiction You Need To Watch https://www.ranker.com/list/best-22nd-century-science-fiction-stories/brenna-zedan
-[3] 8 Best Sci-Fi Movies Set In The 22nd Century - Game Rant https://gamerant.com/best-sci-fi-movies-set-22nd-century/
-[4] Noon: 22nd Century by Arkady Strugatsky - Goodreads https://www.goodreads.com/book/show/1091478.Noon
-[5] Category:Fiction set in the 22nd century - Wikipedia https://en.wikipedia.org/wiki/Category:Fiction_set_in_the_22nd_century
