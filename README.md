@@ -2,7 +2,7 @@
 
 Our exploration STARTS with exploring a niche of [AWESOME hard science fiction](https://github.com/sindresorhus/awesome-scifi).
 
-Here are 50 iconic examples of [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) set in the 22nd century and beyond, compared to the Noon Universe series by the Strugatsky Brothers:
+Here are 30 iconic examples of [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) set in the 22nd century and beyond, compared to the Noon Universe series by the Strugatsky Brothers:
 
 1. The Mars Trilogy by Kim Stanley Robinson (Red Mars, Green Mars, Blue Mars) - Detailed depiction of Mars colonization and terraforming in the 22nd-23rd centuries, similar to the Noon Universe's focus on space exploration.[1][3]
 
@@ -64,12 +64,4 @@ Here are 50 iconic examples of [hard science fiction](https://en.wikipedia.org/w
 
 30. Oryx and Crake by Margaret Atwood - Speculative fiction depicting a post-apocalyptic 22nd century world.
 
-The Noon Universe shares similarities with many of these works in terms of its hard science fiction approach and focus on space exploration and futuristic societies. However, it is distinguished by its uniquely Soviet perspective, episodic storytelling style, and utopian ideals rooted in the authors' experiences.[1][3][4][5]
-
-Citations:
-[1] I'd like to read a book set in the 22nd century on Earth. Do ... - Reddit https://www.reddit.com/r/scifi/comments/cifks/id_like_to_read_a_book_set_in_the_22nd_century_on/
-[2] The Best 22nd-Century Stories In Science Fiction You Need To Watch https://www.ranker.com/list/best-22nd-century-science-fiction-stories/brenna-zedan
-[3] 8 Best Sci-Fi Movies Set In The 22nd Century - Game Rant https://gamerant.com/best-sci-fi-movies-set-22nd-century/
-[4] Noon: 22nd Century by Arkady Strugatsky - Goodreads https://www.goodreads.com/book/show/1091478.Noon
-[5] Category:Fiction set in the 22nd century - Wikipedia https://en.wikipedia.org/wiki/Category:Fiction_set_in_the_22nd_century
-
+The Noon Universe shares similarities with many of these works in terms of its hard science fiction approach and focus on space exploration and futuristic societies. However, it is distinguished by its uniquely Soviet perspective, episodic storytelling style, and utopian ideals rooted in the authors' experiences.
