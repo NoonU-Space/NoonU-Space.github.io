@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First We Explore the Realm of Hard Science Fiction of the 22nd Century"
-date:   2024-05-26 4:30:00
+date:   2024-05-24 4:30:00
 categories: mission
 ---
 
