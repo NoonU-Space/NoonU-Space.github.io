@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Intelligence
-permalink: /ReadingLists/
+title: Exploration
+permalink: /Exploration/
 ---
 
 
