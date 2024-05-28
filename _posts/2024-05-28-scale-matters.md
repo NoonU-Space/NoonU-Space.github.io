@@ -31,57 +31,60 @@ It's not just that manufacturing at nanoscale levels demands an approach to thin
 
 What follows are about 200 examples for why human scale thinking and the space-time paradigm may be insufficient for various advanced future scientific and technological explorations.
 
-Physics:
+Dyson spheres and megastructures:
 
-1. Planck scale physics operates at scales many orders of magnitude smaller than human scale
+1. The scale of star-sized structures is hard for humans to visualize and engineer ... because humans are ego-driven and thus eco-constrained ... it's harder for ego-centric humans who need to be hands-on or micromangage ... these people simply cannot think beyond their own egos and their own eco-constraints UNTIL they ditch their egos and start seeing the problem from the scale the problem requires RATHER than seeing the problem from the scale that makes them comfortable.
 
-2. Quantum gravity theories suggest the breakdown of space-time at the Planck scale
+2. Collecting significant fractions of stellar power output requires continent-scale constructions
+3. Active stabilization and control is needed for large, thin, light-gathering surfaces
+4. Mega-scale structures need to be resilient to impacts and gravitational stresses
+5. Efficient power transmission from the sphere to habitats requires superconductors or lasers
+6. Thermal management on massive scales is needed to make megastructures habitable
+7. Orbital stability around stars needs more complex analysis than small satellites
+8. Dyson swarms of many collector elements require massive autonomous coordination
 
-3. Higher-dimensional space-times beyond the familiar 4D may be needed to unify forces
+Basic Physics:
 
-4. The nature of time and causality likely needs rethinking in a quantum gravity framework
+9. Planck scale physics operates at scales many orders of magnitude smaller than human scale
 
-5. Emergent space-time from more fundamental constructs is an alien concept to humans
+10. Quantum gravity theories suggest the breakdown of space-time at the Planck scale
 
-6. Unifying general relativity and quantum mechanics requires radical new paradigms
+11. Higher-dimensional space-times beyond the familiar 4D may be needed to unify forces
 
-7. The interplay of quantum information, entropy, and space-time needs deeper study
+12. The nature of time and causality likely needs rethinking in a quantum gravity framework
 
-8. Topological quantum field theories go beyond usual notions of locality in space-time
+13. Emergent space-time from more fundamental constructs is an alien concept to humans
+
+14. Unifying general relativity and quantum mechanics requires radical new paradigms
+
+15. The interplay of quantum information, entropy, and space-time needs deeper study
+
+16. Topological quantum field theories go beyond usual notions of locality in space-time
 
 We could and will continue with more physics examples related to cosmology, string theory, loop quantum gravity, twistor theory, etc ... but this already starts to gives a flavor of how radically different from human intuition fundamental physics is likely to become as we probe smaller scales, higher energies, and try to resolve major theoretical problems.
 
-For quantum computing:
+Quantum computing:
 
-9. Quantum entanglement enables correlations that defy usual notions of locality
-10. Exponentially large Hilbert spaces of many-qubit systems exceed human visualization ability
-11. Quantum parallelism via superposition of computation paths is highly non-classical
-12. Quantum error correction requires thinking in terms of topological encodings of information
-13. Quantum algorithms like Grover's and Shor's rely on non-intuitive quantum effects
-14. Quantum machine learning can handle data in higher-dimensional Hilbert spaces
-15. Quantum neural networks process inherently quantum mechanical data structures
-16.Quantum simulation can efficiently simulate quantum systems intractable classically
+17. Quantum entanglement enables correlations that defy usual notions of locality
+18. Exponentially large Hilbert spaces of many-qubit systems exceed human visualization ability
+19. Quantum parallelism via superposition of computation paths is highly non-classical
+20. Quantum error correction requires thinking in terms of topological encodings of information
+21. Quantum algorithms like Grover's and Shor's rely on non-intuitive quantum effects
+22. Quantum machine learning can handle data in higher-dimensional Hilbert spaces
+23. Quantum neural networks process inherently quantum mechanical data structures
+24.Quantum simulation can efficiently simulate quantum systems intractable classically
+
 Material science and nanotechnology:
-17. Atomic scale engineering requires conceptualizing complex 3D nanoscale geometries
-18. Quantum confinement effects dominate as device dimensions approach atomic scale
-19. Nanoparticles have ultra-high surface area to volume ratios enabling new functionality
-20. 2D materials like graphene have unique properties not present in the bulk
-21. Metamaterials with exotic EM or acoustic properties require intricate sub-wavelength structuring
-22. Active nanodevices and molecular machines operate far outside human engineering experience
-23. Hierarchical nanostructured materials combine multiple length scales in complex ways
-24. Nanofluidics, nanophotonics and nanoplasmonics all involve unintuitive quantum and surface effects
 
-Dyson spheres and megastructures:
+25. Atomic scale engineering requires conceptualizing complex 3D nanoscale geometries
+26. Quantum confinement effects dominate as device dimensions approach atomic scale
+27. Nanoparticles have ultra-high surface area to volume ratios enabling new functionality
+28. 2D materials like graphene have unique properties not present in the bulk
+29. Metamaterials with exotic EM or acoustic properties require intricate sub-wavelength structuring
+30. Active nanodevices and molecular machines operate far outside human engineering experience
+31. Hierarchical nanostructured materials combine multiple length scales in complex ways
+32. Nanofluidics, nanophotonics and nanoplasmonics all involve unintuitive quantum and surface effects
 
-25. The scale of star-sized structures is hard for humans to visualize and engineer ... because humans are ego-driven and thus eco-constrained ... it's harder for ego-centric humans who need to be hands-on or micromangage ... these people simply cannot think beyond their own egos and their own eco-constraints UNTIL they ditch their egos and start seeing the problem from the scale the problem requires RATHER than seeing the problem from the scale that makes them comfortable.
-
-26. Collecting significant fractions of stellar power output requires continent-scale constructions
-27. Active stabilization and control is needed for large, thin, light-gathering surfaces
-28. Mega-scale structures need to be resilient to impacts and gravitational stresses
-29. Efficient power transmission from the sphere to habitats requires superconductors or lasers
-30. Thermal management on massive scales is needed to make megastructures habitable
-31. Orbital stability around stars needs more complex analysis than small satellites
-32. Dyson swarms of many collector elements require massive autonomous coordination
 Other "to be developed" domains:
 33. Femtotechnology at 10^-15 meter scales manipulates atomic nuclei and most fundamental particles
 34. Yoctotechnology at 10^-24 meter scales manipulates quarks, potentially making new forms of matter
@@ -91,7 +94,6 @@ Other "to be developed" domains:
 38. Sub-Planckian artificial cosmogenesis requires universe-building technology
 39. Traversable wormholes, if possible, would require extreme space-time engineering
 40. Time travel, if possible, defies normal causal logic and enables paradoxes
-
 
 Particle Accelerators and High Energy Physics:
 
@@ -103,7 +105,9 @@ Particle Accelerators and High Energy Physics:
 46. Directly detecting dark matter particles may require ultra-sensitive, exotic new detectors
 47. Recreating quark-gluon plasma as in the early universe requires extreme conditions
 48. Observing baryon violation or proton decay needs massive detectors operating for decades
+
 Quantum Sensors and Metrology:
+
 49. Atomic clocks operating at the 10^-19 second scale push the limits of laser stabilization
 50. Atom interferometers can measure the fine structure constant with unprecedented precision
 51. Quantum gravimeters enable ultra-precise measurements of tiny variations in gravitational fields
@@ -112,7 +116,9 @@ Quantum Sensors and Metrology:
 54. Entangled clocks and quantum networks enable new tests of fundamental physics
 55. Squeezed states of light allow measurements below the standard quantum limit
 56. Quantum transduction links disparate quantum platforms operating at different scales
+
 Synthetic Biology and Biotechnology:
+
 57. De novo protein design creates amino acid sequences not present in nature
 58. Synthesizing genomes from scratch enables new biological functions and organismal architectures
 59. Biological circuits with complex regulatory logic resemble electronics more than natural pathways
@@ -121,7 +127,9 @@ Synthetic Biology and Biotechnology:
 62. Neuroengineering modulates specific neural circuit elements to influence brain dynamics
 63. Synthesizing the metabolic pathways of extinct species requires extrapolating limited genetic data
 64. Modeling whole-cell physiology requires integrating multiple spatial and temporal scales
+
 Cognitive Science and Artificial General Intelligence:
+
 65. The binding problem in perception and consciousness remains a deep conceptual challenge
 66. Fully general cross-domain learning and reasoning is far beyond current AI
 67. Machine understanding of contexts, goals, and priors resembles higher-level cognition
@@ -130,7 +138,9 @@ Cognitive Science and Artificial General Intelligence:
 70. Superintelligent AI systems may develop new scientific theories and make discoveries inaccessible to humans
 71. AI value alignment requires deeply understanding ethics, goals, and intentions
 72. Uploading human minds or creating AI-human hybrids raises complex identity and continuity questions
+
 Energy and Propulsion:
+
 73. Antimatter-powered spacecraft require ultra-efficient production and storage of antimatter
 74. Fusion-powered rockets face challenges of confinement, ignition, and heat management in small volumes
 75. Interstellar ramjets collecting and heating diffuse medium to relativistic speeds face material challenges
