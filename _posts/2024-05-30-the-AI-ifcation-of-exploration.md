@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Ai-ification Of Exploration"
-date:   2024-05-23 4:30:00
+date:   2024-05-30 4:30:00
 categories: mission
 ---
 
